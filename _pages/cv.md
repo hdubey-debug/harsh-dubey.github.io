@@ -11,16 +11,25 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Computer Science, South Dakota State University, 2025
+* B.S. in Electrical Engineering, South Dakota State University University, 2021
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+*Firmware Engineer – Wireless Networks
+*Trilliant Networks, Inc. | Cary, NC | July 2021- July 2022 & Feb 2023 - present.
+*Supported, upgraded, and tested firmware for various products in their RPMA and Mesh network, including streetlight
+controllers (SLCs) and meter interfacing units (MIUs). I worked closely with customers to provide support and design IoT
+solutions and demos for them. Some of my specific responsibilities included:
+
+*Debugging firmware written in C/C++ for Trilliant's SLCs, which required working with an ARM processor and M-
+BED RTOS. I also added new features to the firmware and created testing applications.
+
+*Leading product development for Trilliant's water MIUs, which involved testing firmware/hardware, testing the
+network, creating unit tests, and assisting the software team with driver development.
+*Creating dashboards, remote control software, and testing applications using Node-RED, JavaScript, Influx DB,
+Prometheus, Oracle DB, MySQL DB, Nginx, and Grafana.
+• Configuring and setting up Linux servers to host various services and applications.
 
 * Fall 2015: Research Assistant
   * Github University
