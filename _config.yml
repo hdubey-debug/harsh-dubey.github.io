@@ -21,7 +21,7 @@ repository               : "https://github.com/hdubey-debug"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "IMG_1120.png"
   name             : "Harsh Dubey"
   pronouns         : # example: "she/her"  
   bio              : "Ex-Amazon & Trilliant SDE | AI Researcher at SDSU's Intelligent Vision System Lab | Expert in Deep Learning, Generative AI, Embedded Software, IoT | B.S. Electrical Engineering, SDSU"
