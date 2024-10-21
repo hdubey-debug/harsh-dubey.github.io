@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Harsh's Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Harsh Dubey"
+description              : &description "Ex-Amazon & Trilliant SDE | AI Researcher at SDSU's Intelligent Vision System Lab | Expert in Deep Learning, Generative AI, Embedded Software, IoT | B.S. Electrical Engineering, SDSU"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
